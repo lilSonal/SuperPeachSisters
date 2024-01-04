@@ -1,3 +1,4 @@
+# Overview
 This is intended to be a clone of the Super Mario Bros video game. Features include:
 - 3 enemies (koopas, goombas, and piranhas that shoot fireballs)
 - 3 lives for Peach -- she loses a life each time she contacts an enemy or fireball
